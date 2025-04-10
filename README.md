@@ -6,6 +6,7 @@ The current project focuses on building a foundational understanding of HTML and
 Upon completing this project, I will have demonstrated the following skills:
 
 HTML Structure : Writing clean, semantic markup to organize content effectively.
+
 CSS Styling : Applying styles to enhance the visual appeal of the website while maintaining consistency.
 
 As a self-reflection at the end of the project, I can confidently say that mastering these skills has deepened my understanding of front-end development fundamentals. By combining creativity with technical knowledge, I’ve gained hands-on experience in crafting user-friendly interfaces—a critical step toward becoming proficient in web development.
